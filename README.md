@@ -20,6 +20,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 &nbsp;
 
-![Moe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Speedbird787&show_icons=true&&bg_color=40,FFFBBE,F3B7EF)
+![Moe's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Speedbird787&show_icons=true&&bg_color=40,FFFBBE,F3B7EF)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Speedbird787&layout=compact)](https://github.com/Speedbird787/github-readme-stats)
